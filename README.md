@@ -129,3 +129,6 @@ clear_junk_group - clear add removed group or deactivated groups on db
 Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
+
+
+https://docs.google.com/presentation/d/1pZS60m6FA7QMuc0oA-6jmdF1lYK4W0Az/edit?usp=drive_link&ouid=100672132520648119448&rtpof=true&sd=true
