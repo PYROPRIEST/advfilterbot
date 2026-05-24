@@ -132,3 +132,8 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
 https://docs.google.com/presentation/d/1pZS60m6FA7QMuc0oA-6jmdF1lYK4W0Az/edit?usp=drive_link&ouid=100672132520648119448&rtpof=true&sd=true
+
+
+
+
+https://docs.google.com/presentation/d/1O1H7w94KlW1LFOrPBGGR6Pua2MzNIz7u/edit?usp=drive_link&ouid=100672132520648119448&rtpof=true&sd=true
